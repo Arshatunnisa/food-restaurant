@@ -1,0 +1,199 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.p1 {
+    background-color: rgb(95, 138, 154);
+    padding: 20px;
+    box-shadow: 5px 5px rgb(133, 151, 173);
+    
+
+}
+.p2 {
+    display: flex;
+    gap:10px;
+    margin-left: 1100px;
+    height: 20px;
+    width: 20px;
+}
+.heading {
+    text-align: center;
+    padding: 20px;
+}
+.btn {
+    background-color: rgb(72, 72, 115);
+    border-radius: 30px;
+    height: 40px;
+    width: 80px;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    color: white;
+    padding-bottom: 20px;
+    
+}
+.container-1 {
+    background-color: rgb(172, 166, 166);
+    padding: 20px;
+    display:flex;
+    gap: 80px;
+    
+    
+    
+    
+    
+
+}
+.font {
+     
+     justify-content: space-between;
+     margin-left: 400px;
+     
+}
+.container-2 {
+    display: flex;
+}
+.container-3 {
+    display: flex;
+    gap: 20px;
+    padding: 10px;
+    margin-left: 300px;
+    
+    
+    
+}
+h1 {
+    text-align: center;
+}
+.container-4 {
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.image1 {
+    border-radius: 120px;
+    
+}
+.container-5 {
+    display: flex;
+}
+h1 {
+    padding: 20px;
+}
+.flex {
+    display: flex;
+    padding: 10px;
+    
+}
+.image {
+    border-radius: 120px;
+    margin-left: 40px;
+}
+blockquote {
+    color: green;
+}
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    
+
+}
+.margin {
+    margin-top: 40px;
+    margin-left: 10px;
+}
+.col {
+    background-color: rgb(164, 159, 159);
+
+}
+.text {
+    margin-left: 70px; 
+}
+.flex1 {
+    display: flex;
+    padding: 40px;
+    column-gap: 250px;
+}
+.red {
+    background-color: red;
+    height:18px;
+    width: 18px;
+    color: white;
+}
+.blue {
+    background-color: rgb(66, 128, 168);
+    height:18px;
+    width: 18px;
+    color: white;
+}
+.yellow {
+    background-color: rgb(117, 117, 38);
+    height:18px;
+    width: 18px;
+    color: white;
+}
+.violet{
+    background-color: blueviolet;
+    height:18px;
+    width: 18px;
+    color: white;
+}
+.display {
+    display: flex;
+    gap: 10px;
+    
+    text-align: center;
+    margin-left:600px;
+}
+.f1 {
+    background-color:grey;
+    
+}
+.f2 {
+    margin-top: 30px;
+    margin-left: 200px;
+    
+}
+.flex2 {
+    display: flex;
+
+    
+}
+.btn1 {
+    border-radius: 20px;
+    background-color: blue;
+}
+.margin {
+    margin-top: 40px;
+}
+.border {
+    border-bottom:solid;
+    line-height: 3em;
+}
+.font {
+    font-size: 20px;
+    text-align: center;
+    
+}
+.text {
+    margin-left:40px;
+    text-align: center;
+    align-content: center;
+    padding: 40px;
+}
+.b {
+    background-color: rgb(176, 170, 170);
+}
+.f4 {
+    background-color: gray;
+    padding: 20px;
+}
+h2 {
+    margin-left: 120px;
+    
+}
+.flex3 {
+    display: flex;
+    gap: 80px;
+
+}
